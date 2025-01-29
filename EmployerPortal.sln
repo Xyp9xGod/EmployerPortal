@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployerPortal", "EmployerPortal\EmployerPortal.csproj", "{E70D8B8A-6E0A-4861-9B94-B1321433FC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployerPortal.Tests", "EmployerPortal.Tests\EmployerPortal.Tests.csproj", "{B1E5DBC5-C0C5-43EE-A277-CA27A3990451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70D8B8A-6E0A-4861-9B94-B1321433FC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70D8B8A-6E0A-4861-9B94-B1321433FC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70D8B8A-6E0A-4861-9B94-B1321433FC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70D8B8A-6E0A-4861-9B94-B1321433FC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E5DBC5-C0C5-43EE-A277-CA27A3990451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E5DBC5-C0C5-43EE-A277-CA27A3990451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E5DBC5-C0C5-43EE-A277-CA27A3990451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E5DBC5-C0C5-43EE-A277-CA27A3990451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
