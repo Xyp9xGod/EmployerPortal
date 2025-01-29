@@ -44,7 +44,7 @@ dotnet test
 
 ### Dependencies
 ```xml
-<!-- EmployerPortal.API.csproj -->
+<!-- EmployerPortal.csproj -->
 <ItemGroup>
   <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
 </ItemGroup>
