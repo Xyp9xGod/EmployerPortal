@@ -38,3 +38,18 @@ dotnet run --project EmployerPortal
 
 # Execute todos os testes
 dotnet test
+```
+
+## 📚 API Documentation (Swagger/OpenAPI)
+
+### Dependencies
+```xml
+<!-- EmployerPortal.API.csproj -->
+<ItemGroup>
+  <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+</ItemGroup>
+
+# Development Environment
+https://localhost:5000/swagger
+https://localhost:5001/swagger
+```
